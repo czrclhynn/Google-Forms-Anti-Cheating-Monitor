@@ -239,6 +239,3 @@ Also check for false positives: accidental clicks outside the browser, brief net
 
 This tool reports detected browser activity for a teacher to review. A logged event is not proof of misconduct, and the tool does not guarantee academic integrity. Use it as one signal among several, with clear disclosure to students.
 
-## License
-
-Add your license here (for example MIT).
