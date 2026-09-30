@@ -4,8 +4,6 @@ A Chrome / Microsoft Edge extension (Manifest V3) that adds a **monitoring and r
 
 Google Forms stays responsible for questions, answers, submission, scores, and responses. This extension does **not** replace it, and it never reads or modifies form content.
 
-> **Status:** Prototype (v0.1.0). Core browser-level monitoring works; the server-backed teacher dashboard is not built yet. See [Roadmap](#roadmap).
-
 ---
 
 ## How it works
